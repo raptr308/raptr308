@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm raptr308-rgb!
+## 👋 Hi there, I'm raptr308!
 
 I'm a **3D Artist** and part-time **beginner Game Developer** passionate about creating visually stunning worlds and interactive experiences.
 
